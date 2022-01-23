@@ -1,0 +1,15 @@
+-r requirements.txt
+commitizen
+covdefaults
+flake8
+flake8-2020
+flake8-bugbear
+flake8-comprehensions
+flake8-debugger
+flake8-docstrings
+pre-commit
+pytest-cov
+pytest-mock
+pytest-pythonpath
+wemake_python_styleguide
+yesqa
